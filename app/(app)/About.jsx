@@ -7,7 +7,7 @@ import { useAuth } from '../../context/authContext';
 import { useFonts } from 'expo-font';
 
 const About = () => {
-  const { user } = useAuth(); // Assuming the useAuth hook provides user data
+  const { user } = useAuth(); 
   const [modalVisible, setModalVisible] = useState(false);
   const [feedbackType, setFeedbackType] = useState('bug');
   const [feedbackText, setFeedbackText] = useState('');
@@ -47,18 +47,18 @@ const About = () => {
   return (
     <ScrollView className="flex-grow p-6 bg-white">
      
-      {/* App Logo */}
+
       <View className="flex-row items-center justify-center mb-4">
         <Image source={require('../../assets/images/icon.png')} className="w-24 h-24" />
       </View>
-      {/* Brief About the App */}
+
       <Text className="text-base text-gray-700 text-center mb-6"  style={{ fontFamily: 'Inter-Regular' }}>
         SafeBee is a disaster response app enabling users to report incidents, volunteers to respond, and donors to contribute towards relief efforts.
         It is designed to help communities come together during times of crisis and provide support to those in need.
         Use SafeBee to stay informed, stay safe, and help others in your community.
       </Text>
 
-      {/* Developer Credits */}
+
       <View className="mb-8">
         <Text className="text-lg font-semibold text-left text-gray-800"  style={{ fontFamily: 'Inter-Semibold' }}>Developed by:</Text>
         <Text className="text-base text-left text-gray-600"  style={{ fontFamily: 'Inter-Regular' }}>Yeakin Iqra</Text>
@@ -66,7 +66,7 @@ const About = () => {
         <Text className="text-base text-left text-gray-600"  style={{ fontFamily: 'Inter-Regular' }}>Maruf Ahammed</Text>
       </View>
 
-      {/* Feedback Button */}
+   
       <TouchableOpacity
         className="bg-green-600 p-4 rounded-lg flex-row items-center justify-center"
         onPress={() => setModalVisible(true)}
@@ -86,7 +86,7 @@ const About = () => {
           <View className="bg-white w-4/5 p-6 rounded-lg">
             <Text className="text-xl font-semibold text-center mb-4" style={{ fontFamily: 'Inter-Semibold' }}>Send Feedback</Text>
 
-            {/* Feedback Type Selector */}
+          
             <View className="flex-row justify-around mb-4">
               <TouchableOpacity
                 className={feedbackType === 'bug' ? 'bg-green-500 p-2 rounded-full' : 'bg-gray-200 p-2 rounded-full'}
@@ -102,7 +102,7 @@ const About = () => {
               </TouchableOpacity>
             </View>
 
-            {/* Feedback Input */}
+         
             <TextInput
               className="border border-gray-300 p-3 rounded-lg mb-4 text-base"
               placeholder="Your feedback here..."
@@ -113,7 +113,7 @@ const About = () => {
               placeholderTextColor="#999"
             />
 
-            {/* Submit Button */}
+         
             <TouchableOpacity
               className="bg-green-600 p-3 rounded-lg mb-2"
               onPress={handleSendFeedback}
@@ -121,7 +121,7 @@ const About = () => {
               <Text className="text-white text-center font-semibold">Submit Feedback</Text>
             </TouchableOpacity>
 
-            {/* Close Button */}
+          
             <TouchableOpacity onPress={() => setModalVisible(false)} className="mt-2">
               <Text className="text-center text-red-500" style={{ fontFamily: 'Inter-Semibold' }}>Close</Text>
             </TouchableOpacity>
