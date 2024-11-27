@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "district_name": "Feni",
+      "helpline_no": "+880 01712345678",
+      "police_station_no": "+880 01923456789",
+      "police_commissioner_no": "+880 01634567890",
+      "fire_service_contact_no": "+880 01745678901",
+      "NGO_name": "Feni Aid",
+      "Ngo_contact": "+880 01956789012"
+    },
+    {
+      "id": 2,
+      "district_name": "Chittagong",
+      "helpline_no": "+880 01923456780",
+      "police_station_no": "+880 01612345678",
+      "police_commissioner_no": "+880 01734567891",
+      "fire_service_contact_no": "+880 01945678902",
+      "NGO_name": "Chittagong Relief",
+      "Ngo_contact": "+880 01756789013"
+    },
+    {
+      "id": 3,
+      "district_name": "Sylhet",
+      "helpline_no": "+880 01612345679",
+      "police_station_no": "+880 01723456781",
+      "police_commissioner_no": "+880 01934567892",
+      "fire_service_contact_no": "+880 01645678903",
+      "NGO_name": "Sylhet Welfare",
+      "Ngo_contact": "+880 01956789014"
+    },
+    {
+      "id": 4,
+      "district_name": "Lalmonirhat",
+      "helpline_no": "+880 01912345682",
+      "police_station_no": "+880 01723456782",
+      "police_commissioner_no": "+880 01634567893",
+      "fire_service_contact_no": "+880 01945678904",
+      "NGO_name": "Rajshahi Help",
+      "Ngo_contact": "+880 01656789015"
+    },
+    {
+      "id": 5,
+      "district_name": "Khulna",
+      "helpline_no": "+880 01612345683",
+      "police_station_no": "+880 01923456783",
+      "police_commissioner_no": "+880 01734567894",
+      "fire_service_contact_no": "+880 01645678905",
+      "NGO_name": "Khulna Care",
+      "Ngo_contact": "+880 01756789016"
+    },
+    {
+      "id": 6,
+      "district_name": "Barisal",
+      "helpline_no": "+880 01712345684",
+      "police_station_no": "+880 01623456784",
+      "police_commissioner_no": "+880 01934567895",
+      "fire_service_contact_no": "+880 01745678906",
+      "NGO_name": "Barisal NGO",
+      "Ngo_contact": "+880 01956789017"
+    },
+    {
+      "id": 7,
+      "district_name": "Rangpur",
+      "helpline_no": "+880 01912345685",
+      "police_station_no": "+880 01623456785",
+      "police_commissioner_no": "+880 01734567896",
+      "fire_service_contact_no": "+880 01945678907",
+      "NGO_name": "Rangpur Aid",
+      "Ngo_contact": "+880 01756789018"
+    },
+    {
+      "id": 8,
+      "district_name": "Mymensingh",
+      "helpline_no": "+880 01712345686",
+      "police_station_no": "+880 01923456786",
+      "police_commissioner_no": "+880 01634567897",
+      "fire_service_contact_no": "+880 01745678908",
+      "NGO_name": "Mymensingh Relief",
+      "Ngo_contact": "+880 01656789019"
+    },
+    {
+      "id": 9,
+      "district_name": "Comilla",
+      "helpline_no": "+880 01912345687",
+      "police_station_no": "+880 01723456787",
+      "police_commissioner_no": "+880 01934567898",
+      "fire_service_contact_no": "+880 01645678909",
+      "NGO_name": "Comilla Help",
+      "Ngo_contact": "+880 01956789020"
+    },
+    {
+      "id": 10,
+      "district_name": "Gazipur",
+      "helpline_no": "+880 01612345688",
+      "police_station_no": "+880 01923456788",
+      "police_commissioner_no": "+880 01734567899",
+      "fire_service_contact_no": "+880 01945678910",
+      "NGO_name": "Gazipur NGO",
+      "Ngo_contact": "+880 01756789021"
+    },
+    {
+      "id": 11,
+      "district_name": "Narayanganj",
+      "helpline_no": "+880 01912345689",
+      "police_station_no": "+880 01623456789",
+      "police_commissioner_no": "+880 01734567900",
+      "fire_service_contact_no": "+880 01645678911",
+      "NGO_name": "Narayanganj Relief",
+      "Ngo_contact": "+880 01956789022"
+    },
+    {
+      "id": 12,
+      "district_name": "Tangail",
+      "helpline_no": "+880 01712345690",
+      "police_station_no": "+880 01923456790",
+      "police_commissioner_no": "+880 01634567901",
+      "fire_service_contact_no": "+880 01745678912",
+      "NGO_name": "Tangail Aid",
+      "Ngo_contact": "+880 01956789023"
+    },
+    {
+      "id": 13,
+      "district_name": "Jessore",
+      "helpline_no": "+880 01612345691",
+      "police_station_no": "+880 01723456791",
+      "police_commissioner_no": "+880 01934567902",
+      "fire_service_contact_no": "+880 01645678913",
+      "NGO_name": "Jessore Care",
+      "Ngo_contact": "+880 01656789024"
+    },
+    {
+      "id": 14,
+      "district_name": "Pabna",
+      "helpline_no": "+880 01712345692",
+      "police_station_no": "+880 01623456792",
+      "police_commissioner_no": "+880 01934567903",
+      "fire_service_contact_no": "+880 01745678914",
+      "NGO_name": "Pabna NGO",
+      "Ngo_contact": "+880 01956789025"
+    },
+    {
+      "id": 15,
+      "district_name": "Kushtia",
+      "helpline_no": "+880 01912345693",
+      "police_station_no": "+880 01723456793",
+      "police_commissioner_no": "+880 01634567904",
+      "fire_service_contact_no": "+880 01945678915",
+      "NGO_name": "Kushtia Welfare",
+      "Ngo_contact": "+880 01756789026"
+    }
+  ]
+  
