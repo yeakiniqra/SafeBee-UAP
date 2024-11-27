@@ -1,4 +1,6 @@
-# SafeBee - Disaster Response App with AI Assistance
+![SafeBee Cover](./assets/images/Mockup%209.png)
+
+# SafeBee - Disaster Response App
 
 SafeBee is a disaster response mobile application aimed at connecting people in disaster-affected areas with volunteers and NGOs. The app allows users to report disasters, receive real-time AI-based disaster guidelines, and raise crowdfunding for NGOs. It also enables volunteers to respond to disaster reports in real-time.
 
@@ -87,4 +89,5 @@ This will launch the app in development mode. You can run the app on a physical 
 
 - Nazmul Yeakin Iqra 
 - Nayeem Islam    
-- Maruf Ahammed      
+- Maruf Ahammed    
+
