@@ -1,0 +1,92 @@
+[
+  {
+      "id": 1,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "B.I. H.S Community Clinic, Dhaka",
+      "emergency_number": "+880 01712345678"
+  },
+  {
+      "id": 2,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "Dr. A R Khan Community Clinic, Dhaka",
+      "emergency_number": "+880 01987654321"
+  },
+  {
+      "id": 3,
+      "hospital_location": "Chandair, Garpara, Bangladesh",
+      "hospital_name": "Sahera Hasan Memorial Community Clinic",
+      "emergency_number": "+880 01611223344"
+  },
+  {
+      "id": 4,
+      "hospital_location": "Thakurgaon, Bangladesh",
+      "hospital_name": "Adhunik Sadar Community Clinic, Thakurgaon",
+      "emergency_number": "+880 01999887766"
+  },
+  {
+      "id": 5,
+      "hospital_location": "Muradnagar, Bangladesh",
+      "hospital_name": "Micro Path & Hospital Community Clinic, Muradnagar",
+      "emergency_number": "+880 01622334455"
+  },
+  {
+      "id": 6,
+      "hospital_location": "Bandartila, Chittagong, Bangladesh",
+      "hospital_name": "Agrani Pathology Laboratory Community Clinic",
+      "emergency_number": "+880 01966778899"
+  },
+  {
+      "id": 7,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "Bangladesh Community Medical Clinic",
+      "emergency_number": "+880 01744556677"
+  },
+  {
+      "id": 8,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "Green Life Community Clinic & Hospital",
+      "emergency_number": "+880 01699887766"
+  },
+  {
+      "id": 9,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "United Community Clinic",
+      "emergency_number": "+880 01788990011"
+  },
+  {
+      "id": 10,
+      "hospital_location": "Chittagong, Bangladesh",
+      "hospital_name": "Chittagong Medical College Ambulance Service",
+      "emergency_number": "+880 01955443322"
+  },
+  {
+      "id": 11,
+      "hospital_location": "Dhaka, Bangladesh",
+      "hospital_name": "Kurmitola General Community Clinic, Dhaka",
+      "emergency_number": "+880 01633445566"
+  },
+  {
+      "id": 12,
+      "hospital_location": "Rajshahi, Bangladesh",
+      "hospital_name": "Rajshahi Medical College Ambulance Service",
+      "emergency_number": "+880 01766778899"
+  },
+  {
+      "id": 13,
+      "hospital_location": "Comilla, Bangladesh",
+      "hospital_name": "Comilla Community Medical Clinic",
+      "emergency_number": "+880 01922446688"
+  },
+  {
+      "id": 14,
+      "hospital_location": "Feni, Bangladesh",
+      "hospital_name": "Feni Sadar Community Clinic, Feni",
+      "emergency_number": "+880 01688997766"
+  },
+  {
+      "id": 15,
+      "hospital_location": "Pabna, Bangladesh",
+      "hospital_name": "Pabna Medical College Ambulance Service",
+      "emergency_number": "+880 01744332211"
+  }
+]
